@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Devops-Todo-220324/static/css/main.736ccca2.css",
+    "main.js": "/Devops-Todo-220324/static/js/main.b94599cd.js",
+    "index.html": "/Devops-Todo-220324/index.html",
+    "main.736ccca2.css.map": "/Devops-Todo-220324/static/css/main.736ccca2.css.map",
+    "main.b94599cd.js.map": "/Devops-Todo-220324/static/js/main.b94599cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736ccca2.css",
+    "static/js/main.b94599cd.js"
+  ]
+}
